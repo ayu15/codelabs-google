@@ -9,6 +9,7 @@ class App extends Component {
           <h1>Codelabs google</h1>
           <ul>
             <li><a href="./pages/your-first-pwapp/index.html">Your first PWA</a></li>
+            <li><a href="./pages/image-styling-web-components/index.html">Image styling with Web Components</a></li>
           </ul>
         </header>
       </div>
