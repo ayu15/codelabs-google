@@ -26,6 +26,11 @@ class App extends Component {
                 DASH: Dynamic Adaptive Streaming over HTTPS
               </a>
             </li>
+            <li>
+              <a href="./pages/autocomplete/index.html">
+                Autocomplete form fields
+              </a>
+            </li>
           </ul>
         </header>
       </div>
