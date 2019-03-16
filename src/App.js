@@ -31,6 +31,9 @@ class App extends Component {
                 Autocomplete form fields
               </a>
             </li>
+            <li>
+              <a href="./pages/web-worker/index.html">Web worker</a>
+            </li>
           </ul>
         </header>
       </div>
